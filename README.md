@@ -1,5 +1,3 @@
-# semantic-spotter-project
-
 # Semantic Spotter Project Submission
 
 ## 1. Background
